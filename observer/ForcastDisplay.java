@@ -1,5 +1,10 @@
 package com.company;
 
+/**
+* Concrete Observer
+*/
+
+
 public class ForcastDisplay implements Observer, DisplayElement {
 
     private Subject weatherData;

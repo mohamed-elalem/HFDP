@@ -1,5 +1,9 @@
 package com.company;
 
+/**
+* Concrete Observer
+*/
+
 public class HeatIndexDisplay implements Observer, DisplayElement {
 
     private float heatIndex;

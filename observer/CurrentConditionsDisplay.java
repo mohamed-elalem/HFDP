@@ -1,5 +1,8 @@
 package com.company;
 
+/**
+* Concrete Observer
+*/
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
 

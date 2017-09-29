@@ -1,5 +1,9 @@
 package com.company;
 
+/**
+* Concrete Observer
+*/
+
 public class StatisticsDisplay implements Observer, DisplayElement {
 
     private float avgTemperature;

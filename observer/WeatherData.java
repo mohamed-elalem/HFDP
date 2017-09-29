@@ -2,6 +2,11 @@ package com.company;
 
 import java.util.ArrayList;
 
+
+/**
+* Concrete Subject
+*/
+
 public class WeatherData implements Subject {
 
     private ArrayList<Observer> observers;
